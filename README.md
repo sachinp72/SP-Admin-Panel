@@ -28,13 +28,13 @@ See full repo layout for application and assets.
 
 Here are some key screens of the SP Admin Panel:
 
-### 🔐 Login Screen
+### 🔐 Dashboard Overview
 ![Login](assets/images/image1.png)
 
-### 📊 Dashboard Overview
+### 📊 Category Overview
 ![Dashboard](assets/images/image2.png)
 
-### 👥 User & Role Management
+### 👥 Add brand Overviewt
 ![User Management](assets/images/image3.png)
 
 ### 📄 Invoice / Order Management
